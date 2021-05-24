@@ -1,0 +1,9 @@
+{
+    "speech_api":{
+        "speech_key":"{your_subscription_key}",
+        "service_region":"{your_service_region}"
+    },
+    "location":{
+        "full_file_path":"{your_dir_path}"
+    }
+}
