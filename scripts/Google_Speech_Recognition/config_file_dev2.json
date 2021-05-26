@@ -1,0 +1,8 @@
+{
+  "audio_files":{
+    "folder_with_audio_files": "{your_path_to_dir_with_wav_audio_files}"
+  },
+  "transcribed_files": {
+    "folder_with_transcribed_files": "{your_dir_for_transcribed_files}"
+  }
+}
