@@ -1,0 +1,13 @@
+{
+  "json_file": {
+      "json_file_path": "{your_path_to_json_file}"
+  },
+  "transcribed_files": {
+    "transcribed_files_dir": "{your_directory_to_transcribed_files}"
+  },
+  "gc_storage": {
+    "bucket_url": "{your_bucket_url}",
+    "bucket_name": "{your_bucket_name}",
+    "dir_name": "{your_directory_in_a_bucket}"
+  }
+}
