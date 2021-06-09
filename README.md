@@ -46,7 +46,7 @@ Pozostałe czynniki okazały się mało znaczące, a uzyskane wartości P-value 
 
 Do obliczeń potrzebnych do stworzenia tego zestawienia wykorzystane zostały wszystkie przygotowane nagrania, bez względu na badane czynniki, takie jak jakość mowy i mikrofonu. Każdy z silników przeprowadzał transkrypcję dokładnie takiego samego zestawu nagrań. Raport nie ujawnia nazw narzędzi, które uzyskały poszczególne wyniki. Prezentują się one natomiast następująco:
   * **Narzędzie 1** - średni WER: 23.47%
-  * **Narzędzie 2** - średni WER: 30.30.38%
+  * **Narzędzie 2** - średni WER: 30.38%
   * **Narzędzie 3** - średni WER: 36.31%
   * **Narzędzie 4** - średni WER: 34.83%
 
