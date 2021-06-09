@@ -13,7 +13,7 @@ Proces ma na celu zweryfikowanie ilościowej skuteczności działania silników 
     * [Sonix](https://sonix.ai/) <br />
 *Pełne testy zostały przeprowadzone na wszystkich wyżej wymienionych z wyjątkiem Google Speech Recognition* <br />
 
-Skrypty usprawniające pracę z silnikami również znajdują się w repozytorium w folderze [scripts](https://github.com/martynapawlus/PolishSpeechRecognition/tree/main/scripts). 😸
+Skrypty usprawniające pracę z silnikami również znajdują się w repozytorium w folderze [scripts](https://github.com/martynapawlus/PolishSpeechRecognition/tree/main/scripts).😸
 
 4. Obliczenie **Word Error Rate (WER)** przy użyciu programu [sclite](https://github.com/usnistgov/SCTK).
 5. Przygotowanie pliku [.csv](https://github.com/martynapawlus/PolishSpeechRecognition/tree/main/wyniki) zawierającego w kolumnach wszystkie cechy poszczególnych tekstów i nagrań. 
@@ -55,5 +55,4 @@ Co ciekawe, Google Speech Recognition (inne API), mimo tego, że teoretycznie ko
 
 Średni WER dla Google Speech Recognition wyniósł - 17.72%, a dla Google Cloud Platform - 21.15%. Obliczenia te były przeprowadzone tylko dla części tekstów, ponieważ GSR nie podejmował próby transkrypcji nagrań, które charaktekryzowały się słabą dykcją lub dużym szumem. Zamiast tego wyrzucał błąd "UnknownValueError".
 
-# THE END
-
+Testy, które wykonałyśmy dały satysfakcjonujące wyniki, zwłaszcza w kwestii prównania komercyjnych silników transkrypcji mowy.😺
